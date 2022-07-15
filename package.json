@@ -15,6 +15,7 @@
   },
   "author": "Lisandra",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Lisandradecassia/nodeExpress/issues"
   },
